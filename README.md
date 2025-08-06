@@ -17,7 +17,7 @@ I'm a curious and hands-on security learner transitioning from over a decade in 
 
 ## 🧪 Projects
 
-> 📌 These projects are a mix of real-world practice and hands-on labs. Much of this work was originally captured in Obsidian/CherryTree and is now being organized and shared here for public learning and future collaboration.
+> 📌 These projects are a mix of real-world practice and hands-on labs. Much of this work was originally captured in Obsidian & CherryTree and is now being organized and shared here for public learning and future collaboration.
 
 | Project | Description |
 |--------|-------------|
