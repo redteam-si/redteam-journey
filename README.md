@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Shahbaz]!
+# 👋 Hi, I'm Shahbaz!
 
 I'm a curious and hands-on security learner transitioning from over a decade in IT operations to offensive security and penetration testing.
 
