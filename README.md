@@ -1,54 +1,37 @@
-# 👋 Hi, I'm Shahbaz!
+# 🕵️ Red Team Journey
 
-I'm a curious and hands-on security learner transitioning from over a decade in IT operations to offensive security and penetration testing.
+Welcome to my **Red Team Journey** repo!  
+This is where I document my transition into offensive security and penetration testing.  
 
-🔧 My background includes:
-- Support Windows Server and Network Infrastructure for Microsoft Customers
-- In-house IT support and infrastructure operations across Windows, Linux, and macOS
-- Endpoint management using Intune, JAMF, SCCM, and PDQ
-- Vulnerability remediation workflows with Tenable and ServiceNow
-
-🕵️ Now focused on:
-- Network and web application pentesting
-- Privilege escalation, reverse shells, and post-exploitation
-- Building, breaking, and documenting vulnerable lab environments
+📌 Over the past year, I’ve been practicing on CTF platforms, labs, and vulnerable environments. Much of this was originally captured in **Obsidian** and **CherryTree**, and I’m now transferring it here in an organized way.
 
 ---
 
-## 🧪 Projects
+## 🔎 Repo Highlights
 
-> 📌 These projects are a mix of real-world practice and hands-on labs. Much of this work was originally captured in Obsidian & CherryTree and is now being organized and shared here for public learning and future collaboration.
-
-| Project | Description |
-|--------|-------------|
-
-
----
-
-## 🔄 What's Next?
-
-- I am continuing to refine these projects as I learn
-- Exploring automation and scripting in red team workflows
-- Sharing more notes, one repo at a time 🚀
-
-📫 Let’s connect on [LinkedIn](https://linkedin.com/in/shahbaz-inamdar)
-
-🌐 Check out my labs, tools, and writeups here on GitHub
+- **labs/** → Hands-on practice with HackTheBox, VulnHub, and CTF challenges.
+- **scripts/** → Python, Bash, and PowerShell scripts I wrote for automation and enumeration.
+- **notes/** → Quick reference notes on pentesting techniques.
+- **projects/** → Larger builds like my Active Directory lab setup and phishing simulation.
 
 ---
 
+## 🧪 Labs Covered
 
-<!--
-**shahbaz17393/shahbaz17393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Platform | Status | Example Writeup |
+|----------|--------|-----------------|
+| HackTheBox | Ongoing | [Machine1](labs/htb-labs/machine1.md) |
+| VulnHub   | Completed few | [Kioptrix](labs/vulnhub/kioptrix1.md) |
+| OverTheWire | Started | [Bandit](labs/overthewire/bandit.md) |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Next Steps
+
+- Expanding Python scripting in `scripts/`  
+- Adding more privilege escalation labs  
+- Publishing notes from daily practice  
+
+---
+
+📫 **Let’s connect:** [LinkedIn](www.linkedin.com/in/shahbaz-inamdar) | [Profile README](https://github.com/redteam-si)
